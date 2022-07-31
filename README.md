@@ -1,6 +1,6 @@
 ## hello everyone 👋
 
-👨🏻‍💻 Currently studying Systems Development & Analysis<br>
+👨🏻‍💻 Studying Systems Development & Analysis<br>
 
 😁 A passion: UX Design, html, css<br>
 
