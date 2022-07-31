@@ -1,9 +1,10 @@
 ## hello everyone 👋
 
-
-🌱 I’m currently learning JavaScript<br>
+👨🏻‍💻 Currently studying Systems Development & Analysis<br>
 
 😁 A passion: UX Design, html, css<br>
+
+🌱 I’m currently learning JavaScript<br>
 
 🧐 Ask me about Harry Potter<br>
 
