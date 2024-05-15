@@ -1,10 +1,10 @@
 ## hello everyone 👋
 
-👨🏻‍💻 Studying Systems Development & Analysis<br>
+👨🏻‍💻 Graduated in systems analysis and development<br>
 
-😁 A passion: UX Design, html, css<br>
+👨‍🎓 Currently postgraduate course in UX Design and digital marketing<br>
 
-🌱 I’m currently learning JavaScript<br>
+😁 A passion: UX Design, HTML, CSS & JavaScript<br>
 
 🧐 Ask me about Harry Potter<br>
 
