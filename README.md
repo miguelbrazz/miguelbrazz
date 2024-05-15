@@ -1,4 +1,4 @@
-## hello everyone 👋
+## Hello everyone 👋
 
 👨🏻‍💻 Graduated in systems analysis and development<br>
 
