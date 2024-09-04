@@ -1,14 +1,14 @@
 ## Hello everyone 👋
 
-👨🏻‍💻 Graduated in systems analysis and development<br>
+👨🏻‍💻 Formado em Análise de desenvolvimento de sistemas<br>
 
-👨‍🎓 Currently postgraduate course in UX Design and digital marketing<br>
+👨‍🎓 Atualmente cursando pós graduação em MBA de User Experience, inovação e marketing digital<br>
 
-😁 A passion: UX Design, HTML, CSS & JavaScript<br>
+😁 Uma paixão: UX & UI Design<br>
 
 🧐 Ask me about Harry Potter<br>
 
-📫 How to reach me: msottom2@gmail.com<br><br>
+📫 How to reach me: miguelbraz@live.com<br><br>
 
 <div align="center">
   <a href="https://github.com/miguelbrazz">
