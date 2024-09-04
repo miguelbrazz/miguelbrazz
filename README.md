@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-👨🏻‍💻 Formado em Análise de desenvolvimento de sistemas<br>
+👨🏻‍💻 Formado em Análise e desenvolvimento de sistemas<br>
 
 👨‍🎓 Atualmente cursando pós graduação em MBA de User Experience, inovação e marketing digital<br>
 
