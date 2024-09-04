@@ -6,9 +6,9 @@
 
 😁 Uma paixão: UX & UI Design<br>
 
-🧐 Ask me about Harry Potter<br>
+🧐 Acesse meu Website: https://mbrzz.netlify.app/<br>
 
-📫 How to reach me: miguelbraz@live.com<br><br>
+📫 Entre em contato: miguelbraz@live.com<br><br>
 
 <div align="center">
   <a href="https://github.com/miguelbrazz">
