@@ -6,7 +6,7 @@
 
 😁 Uma paixão: UX & UI Design<br>
 
-🧐 Acesse meu Website: https://mbrzz.netlify.app/<br>
+🧐 Acesse meu website: https://mbrzz.netlify.app/<br>
 
 📫 Entre em contato: miguelbraz@live.com<br><br>
 
